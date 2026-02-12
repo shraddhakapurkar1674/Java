@@ -13,7 +13,7 @@ public class SubarraysizeK
 	}
 	int k,sum;
 	sum=0;
-	System.out.println("Enter value od K");
+	System.out.println("Enter value of K");
 	k=sc.nextInt();
 	for(i=0;i<k;i++)
 	{

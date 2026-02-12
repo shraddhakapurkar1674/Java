@@ -11,7 +11,7 @@ public class SubArraymax
 	{
 	  a[i]=sc.nextInt();
 	}
-	System.out.println("Enter value od K");
+	System.out.println("Enter value of K");
 	k=sc.nextInt();
 	int max=0;
 	  for(i=0;i<=a.length-k;i++)

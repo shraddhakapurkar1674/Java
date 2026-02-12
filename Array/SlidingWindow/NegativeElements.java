@@ -11,7 +11,7 @@ public class NegativeElements
 	{
 	  a[i]=sc.nextInt();
 	}
-	System.out.println("Enter value od K");
+	System.out.println("Enter value of K");
 	k=sc.nextInt();
 	for(i=0;i<=a.length-k;i++)
 	{
